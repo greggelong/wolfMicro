@@ -1,0 +1,3 @@
+# Wolf micro
+
+This artwork presents an exploration that delicately merges the worlds of biology and technology. By capturing the minute intricacies of human skin and hair patterns and translating them into binary code, the piece endeavors to construct a complex system reminiscent of cellular automata. These microscopic patterns coalesce to form the pixels of the artwork, unveiling the unexpectedly intricate structures that emerge from rudimentary computational rules. Viewers are encouraged to reflect on the nuanced interplay between nature and technology, while also acknowledging the importance of small details within both the individual and the broader landscape.
